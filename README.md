@@ -18,4 +18,4 @@
 <br/>
 <br/>
 
-[![Uijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoo-uijin&show_icons=true&theme=buefy)](https://github.com/Yoo-uijin/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yoo-uijin&show_icons=true&theme=tokyonight)
